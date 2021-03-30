@@ -21,8 +21,3 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-
-# plugins
-# TODO: uncomment the two lines bellow when you use this fr you project
-# .eslintrc.json
-# .prettierignore
