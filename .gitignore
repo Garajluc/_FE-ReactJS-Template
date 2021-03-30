@@ -23,5 +23,6 @@ yarn-debug.log*
 yarn-error.log*
 
 # plugins
-.eslintrc.json
-.prettierignore
+# TODO: uncomment the two lines bellow when you use this fr you project
+# .eslintrc.json
+# .prettierignore
